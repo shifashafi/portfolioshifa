@@ -22,7 +22,7 @@ a {
 
 .nav {
   display: flex;
-  padding: 3rem 5rem;
+  padding: 2rem 5rem;
   justify-content: space-between;
   align-items: center;
   box-shadow: rgba(35, 35, 36, 0.2) 0px 8px 24px;
@@ -363,7 +363,7 @@ a {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  padding: 4rem 0rem;
+  padding: 4rem 5rem;
   color: white;
 }
 
